@@ -1,0 +1,25 @@
+# Core Data & Math
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+
+# Deep Learning Frameworks
+torch==2.11.0
+torchvision==0.20.0
+torch-geometric==2.6.1
+transformers==4.49.0
+
+# Computer Vision & Image Processing
+opencv-python==4.13.0.92
+mediapipe==0.10.9
+scikit-image==0.25.1
+Pillow==12.2.0
+
+# Machine Learning Utilities
+scikit-learn==1.7.2
+tqdm==4.71.0
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+
